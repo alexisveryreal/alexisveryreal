@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS, TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [https://www.alexisveryreal.com/projects](https://www.alexisveryreal.com/projects)
+- 👨‍💻 Checkout my website at [https://www.alexisveryreal.com](https://www.alexisveryreal.com)
 
 - 💬 Ask me about **React, React Native, or Express**
 
