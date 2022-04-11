@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis Villarreal</h1>
-<h3 align="center">A passionate frontend developer from Las Vegas</h3>
+<h3 align="center">A passionate fullstack developer from Las Vegas</h3>
 
 - 🔭 I’m currently working on [hawks-pizza](https://github.com/alexisveryreal/hawks-pizza)
 
